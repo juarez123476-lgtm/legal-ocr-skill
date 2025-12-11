@@ -1,0 +1,617 @@
+{
+  "_comment": "Dicionário de termos jurídicos brasileiros para correção de OCR",
+  "_version": "1.0.0",
+  "_last_updated": "2025-12-10",
+
+  "açao": "ação",
+  "acão": "ação",
+  "açãa": "ação",
+  "açã": "ação",
+  "aça": "ação",
+
+  "acórdao": "acórdão",
+  "acordao": "acórdão",
+  "acordãa": "acórdão",
+
+  "agravante": "agravante",
+  "agravado": "agravado",
+  "agravo": "agravo",
+
+  "alegacão": "alegação",
+  "alegacao": "alegação",
+  "alegaçao": "alegação",
+
+  "anulacao": "anulação",
+  "anulaçao": "anulação",
+
+  "apelacao": "apelação",
+  "apelaçao": "apelação",
+  "apelação": "apelação",
+
+  "apreciacao": "apreciação",
+  "apreciaçao": "apreciação",
+
+  "arguicao": "arguição",
+  "arguiçao": "arguição",
+  "arguição": "arguição",
+
+  "autoria": "autoria",
+  "autor": "autor",
+  "autora": "autora",
+
+  "autorizacao": "autorização",
+  "autorizaçao": "autorização",
+
+  "autos": "autos",
+  "auto": "auto",
+
+  "avaliacao": "avaliação",
+  "avaliaçao": "avaliação",
+
+  "celebracao": "celebração",
+  "celebraçao": "celebração",
+
+  "citacao": "citação",
+  "citaçao": "citação",
+  "citação": "citação",
+
+  "codigo": "código",
+  "cödigo": "código",
+
+  "comarca": "comarca",
+  "comarcas": "comarcas",
+
+  "compensacao": "compensação",
+  "compensaçao": "compensação",
+
+  "conciliaçao": "conciliação",
+  "conciliacao": "conciliação",
+
+  "condenacao": "condenação",
+  "condenaçao": "condenação",
+  "condenaçã": "condenação",
+
+  "condem": "condeno",
+  "condeno": "condeno",
+
+  "constituicao": "constituição",
+  "constituiçao": "constituição",
+  "constituição": "constituição",
+
+  "contestaçao": "contestação",
+  "contestacao": "contestação",
+
+  "contrato": "contrato",
+  "contratos": "contratos",
+
+  "custas": "custas",
+  "custa": "custa",
+
+  "dano": "dano",
+  "danos": "danos",
+
+  "data": "data",
+  "datas": "datas",
+
+  "decisao": "decisão",
+  "decisão": "decisão",
+  "decisã": "decisão",
+
+  "defensor": "defensor",
+  "defensora": "defensora",
+  "defensoria": "defensoria",
+
+  "depoimento": "depoimento",
+  "depoimentos": "depoimentos",
+
+  "desembargador": "desembargador",
+  "desembargadora": "desembargadora",
+
+  "despesas": "despesas",
+  "despesa": "despesa",
+
+  "despacho": "despacho",
+  "despachos": "despachos",
+
+  "direito": "direito",
+  "direitos": "direitos",
+
+  "dispositivo": "dispositivo",
+  "dispositivos": "dispositivos",
+
+  "distrito": "distrito",
+
+  "divorcio": "divórcio",
+  "divorció": "divórcio",
+
+  "documentacao": "documentação",
+  "documentaçao": "documentação",
+
+  "dolo": "dolo",
+
+  "editai": "edital",
+  "edital": "edital",
+
+  "embargo": "embargo",
+  "embargos": "embargos",
+
+  "ementa": "ementa",
+  "ementas": "ementas",
+
+  "execucao": "execução",
+  "execuçao": "execução",
+  "execução": "execução",
+
+  "executado": "executado",
+  "executados": "executados",
+
+  "exequente": "exequente",
+
+  "expedicao": "expedição",
+  "expediçao": "expedição",
+
+  "extincao": "extinção",
+  "extinçao": "extinção",
+  "extinção": "extinção",
+
+  "fazenda": "fazenda",
+
+  "fato": "fato",
+  "fatos": "fatos",
+
+  "federal": "federal",
+  "federais": "federais",
+
+  "folha": "folha",
+  "folhas": "folhas",
+
+  "foro": "foro",
+  "fôro": "foro",
+
+  "fundamentacao": "fundamentação",
+  "fundamentaçao": "fundamentação",
+  "fundamentação": "fundamentação",
+
+  "grau": "grau",
+  "graus": "graus",
+
+  "hipoteca": "hipoteca",
+  "hipotecas": "hipotecas",
+
+  "homologo": "homologo",
+  "homólogo": "homólogo",
+
+  "honorario": "honorário",
+  "honorarios": "honorários",
+  "honorârio": "honorário",
+  "honorârios": "honorários",
+
+  "improcedencia": "improcedência",
+  "improcedéncia": "improcedência",
+  "improcedente": "improcedente",
+
+  "inadmissivel": "inadmissível",
+  "inadmissível": "inadmissível",
+
+  "indefiro": "indefiro",
+  "indeferir": "indeferir",
+  "indeferido": "indeferido",
+
+  "informacao": "informação",
+  "informaçao": "informação",
+  "informações": "informações",
+
+  "inicial": "inicial",
+  "iniciais": "iniciais",
+
+  "instancia": "instância",
+  "instância": "instância",
+  "instâncias": "instâncias",
+
+  "instrucao": "instrução",
+  "instruçao": "instrução",
+  "instrução": "instrução",
+
+  "inteiramente": "inteiramente",
+  "intéiramente": "inteiramente",
+
+  "intimacao": "intimação",
+  "intimaçao": "intimação",
+  "intimação": "intimação",
+
+  "julgado": "julgado",
+  "julgados": "julgados",
+
+  "julgamento": "julgamento",
+  "julgamentos": "julgamentos",
+
+  "julgo": "julgo",
+
+  "juiz": "juiz",
+  "juíz": "juiz",
+  "juiza": "juíza",
+  "juíza": "juíza",
+
+  "juridico": "jurídico",
+  "jurídico": "jurídico",
+  "juridica": "jurídica",
+  "jurídica": "jurídica",
+
+  "jurisdicao": "jurisdição",
+  "jurisdiçao": "jurisdição",
+  "jurisdição": "jurisdição",
+
+  "jurisprudencia": "jurisprudência",
+  "jurisprudéncia": "jurisprudência",
+  "jurisprudência": "jurisprudência",
+
+  "justica": "justiça",
+  "justíça": "justiça",
+  "justiça": "justiça",
+
+  "legislacao": "legislação",
+  "legislaçao": "legislação",
+  "legislação": "legislação",
+
+  "lei": "lei",
+  "leis": "leis",
+
+  "liminar": "liminar",
+  "liminares": "liminares",
+
+  "litisconsorcio": "litisconsórcio",
+  "litisconsórcio": "litisconsórcio",
+
+  "litigio": "litígio",
+  "litígio": "litígio",
+
+  "magistrado": "magistrado",
+  "magistrada": "magistrada",
+
+  "mandado": "mandado",
+  "mandados": "mandados",
+
+  "manifestacao": "manifestação",
+  "manifestaçao": "manifestação",
+  "manifestação": "manifestação",
+
+  "materia": "matéria",
+  "matéria": "matéria",
+
+  "medicao": "medição",
+  "mediçao": "medição",
+  "medição": "medição",
+
+  "merito": "mérito",
+  "mérito": "mérito",
+
+  "ministerio": "ministério",
+  "ministério": "ministério",
+
+  "motivacao": "motivação",
+  "motivaçao": "motivação",
+  "motivação": "motivação",
+
+  "multa": "multa",
+  "multas": "multas",
+
+  "negacao": "negação",
+  "negaçao": "negação",
+  "negação": "negação",
+
+  "notificacao": "notificação",
+  "notificaçao": "notificação",
+  "notificação": "notificação",
+
+  "nulidade": "nulidade",
+  "nulidades": "nulidades",
+
+  "numero": "número",
+  "número": "número",
+  "numeros": "números",
+  "números": "números",
+
+  "objecao": "objeção",
+  "objeçao": "objeção",
+  "objeção": "objeção",
+
+  "obrigacao": "obrigação",
+  "obrigaçao": "obrigação",
+  "obrigação": "obrigação",
+
+  "oposicao": "oposição",
+  "oposiçao": "oposição",
+  "oposição": "oposição",
+
+  "pagamento": "pagamento",
+  "pagamentos": "pagamentos",
+
+  "parcelado": "parcelado",
+  "parcelamento": "parcelamento",
+
+  "parecer": "parecer",
+  "pareceres": "pareceres",
+
+  "parte": "parte",
+  "partes": "partes",
+
+  "pedido": "pedido",
+  "pedidos": "pedidos",
+
+  "pena": "pena",
+  "penas": "penas",
+
+  "peticao": "petição",
+  "petiçao": "petição",
+  "petição": "petição",
+
+  "plenario": "plenário",
+  "plenário": "plenário",
+
+  "posse": "posse",
+
+  "pratica": "prática",
+  "prática": "prática",
+
+  "prazo": "prazo",
+  "prazos": "prazos",
+
+  "precatorio": "precatório",
+  "precatório": "precatório",
+  "precatorios": "precatórios",
+  "precatórios": "precatórios",
+
+  "preferencia": "preferência",
+  "preferéncia": "preferência",
+  "preferência": "preferência",
+
+  "prescricao": "prescrição",
+  "prescriçao": "prescrição",
+  "prescrição": "prescrição",
+
+  "presenca": "presença",
+  "preseça": "presença",
+  "presença": "presença",
+
+  "presidencia": "presidência",
+  "presidéncia": "presidência",
+  "presidência": "presidência",
+
+  "procedencia": "procedência",
+  "procedéncia": "procedência",
+  "procedência": "procedência",
+  "procedente": "procedente",
+
+  "procedimento": "procedimento",
+  "procedimentos": "procedimentos",
+
+  "processo": "processo",
+  "processos": "processos",
+
+  "procuracao": "procuração",
+  "procuraçao": "procuração",
+  "procuração": "procuração",
+
+  "procurador": "procurador",
+  "procuradora": "procuradora",
+
+  "producao": "produção",
+  "produçao": "produção",
+  "produção": "produção",
+
+  "promotor": "promotor",
+  "promotora": "promotora",
+  "promotoria": "promotoria",
+
+  "prova": "prova",
+  "provas": "provas",
+
+  "provisao": "provisão",
+  "provisão": "provisão",
+
+  "publica": "pública",
+  "pública": "pública",
+  "publico": "público",
+  "público": "público",
+
+  "publicacao": "publicação",
+  "publicaçao": "publicação",
+  "publicação": "publicação",
+
+  "qualificacao": "qualificação",
+  "qualificaçao": "qualificação",
+  "qualificação": "qualificação",
+
+  "querela": "querela",
+  "querelante": "querelante",
+
+  "querelado": "querelado",
+
+  "razao": "razão",
+  "razão": "razão",
+  "razões": "razões",
+  "razoes": "razões",
+
+  "reacao": "reação",
+  "reaçao": "reação",
+  "reação": "reação",
+
+  "reclamacao": "reclamação",
+  "reclamaçao": "reclamação",
+  "reclamação": "reclamação",
+
+  "reconhecimento": "reconhecimento",
+
+  "recurso": "recurso",
+  "recursos": "recursos",
+
+  "redacao": "redação",
+  "redaçao": "redação",
+  "redação": "redação",
+
+  "reforma": "reforma",
+  "reformas": "reformas",
+
+  "regiao": "região",
+  "regíao": "região",
+  "região": "região",
+
+  "registro": "registro",
+  "registros": "registros",
+
+  "relacao": "relação",
+  "relaçao": "relação",
+  "relação": "relação",
+
+  "relatorio": "relatório",
+  "relatório": "relatório",
+  "relatorios": "relatórios",
+  "relatórios": "relatórios",
+
+  "reparacao": "reparação",
+  "reparaçao": "reparação",
+  "reparação": "reparação",
+
+  "replica": "réplica",
+  "réplica": "réplica",
+
+  "representacao": "representação",
+  "representaçao": "representação",
+  "representação": "representação",
+
+  "rescisao": "rescisão",
+  "rescisão": "rescisão",
+  "rescisã": "rescisão",
+
+  "resolucao": "resolução",
+  "resoluçao": "resolução",
+  "resolução": "resolução",
+
+  "responsabilidade": "responsabilidade",
+  "responsabilidades": "responsabilidades",
+
+  "ressarcimento": "ressarcimento",
+
+  "retificacao": "retificação",
+  "retificaçao": "retificação",
+  "retificação": "retificação",
+
+  "réu": "réu",
+  "reus": "réus",
+  "réus": "réus",
+  "ré": "ré",
+
+  "revelia": "revelia",
+
+  "revisao": "revisão",
+  "revisã": "revisão",
+  "revisão": "revisão",
+
+  "seguranca": "segurança",
+  "segurança": "segurança",
+
+  "senteça": "sentença",
+  "sentenca": "sentença",
+  "sentença": "sentença",
+  "sentencas": "sentenças",
+  "sentenças": "sentenças",
+
+  "servidor": "servidor",
+  "servidora": "servidora",
+
+  "sessao": "sessão",
+  "sessã": "sessão",
+  "sessão": "sessão",
+
+  "solicitacao": "solicitação",
+  "solicitaçao": "solicitação",
+  "solicitação": "solicitação",
+
+  "solucao": "solução",
+  "soluçao": "solução",
+  "solução": "solução",
+
+  "sucumbencia": "sucumbência",
+  "sucumbéncia": "sucumbência",
+  "sucumbência": "sucumbência",
+
+  "sumula": "súmula",
+  "súmula": "súmula",
+  "sumulas": "súmulas",
+  "súmulas": "súmulas",
+
+  "superior": "superior",
+  "superiores": "superiores",
+
+  "suspensao": "suspensão",
+  "suspensã": "suspensão",
+  "suspensão": "suspensão",
+
+  "sustentacao": "sustentação",
+  "sustentaçao": "sustentação",
+  "sustentação": "sustentação",
+
+  "taxa": "taxa",
+  "taxas": "taxas",
+
+  "termo": "termo",
+  "termos": "termos",
+
+  "testemunha": "testemunha",
+  "testemunhas": "testemunhas",
+
+  "tese": "tese",
+  "teses": "teses",
+
+  "transacao": "transação",
+  "transaçao": "transação",
+  "transação": "transação",
+
+  "transito": "trânsito",
+  "trânsito": "trânsito",
+
+  "tribunal": "tribunal",
+  "tribunais": "tribunais",
+
+  "turma": "turma",
+  "turmas": "turmas",
+
+  "tutela": "tutela",
+  "tutelas": "tutelas",
+
+  "uniao": "união",
+  "união": "união",
+
+  "urgencia": "urgência",
+  "urgéncia": "urgência",
+  "urgência": "urgência",
+
+  "vara": "vara",
+  "varas": "varas",
+
+  "vencimento": "vencimento",
+  "vencimentos": "vencimentos",
+
+  "verificacao": "verificação",
+  "verificaçao": "verificação",
+  "verificação": "verificação",
+
+  "vicio": "vício",
+  "vício": "vício",
+  "vicios": "vícios",
+  "vícios": "vícios",
+
+  "vinculacao": "vinculação",
+  "vinculaçao": "vinculação",
+  "vinculação": "vinculação",
+
+  "violacao": "violação",
+  "violaçao": "violação",
+  "violação": "violação",
+
+  "vistos": "vistos",
+  "visto": "visto",
+
+  "voto": "voto",
+  "votos": "votos"
+}

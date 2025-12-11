@@ -1,0 +1,52 @@
+# Legal OCR Pipeline - Python Dependencies
+# Installation: pip install -r requirements.txt
+
+# OCR Engines
+paddleocr>=2.8.0              # Primary OCR engine (Portuguese optimized)
+easyocr>=1.7.0                # Fallback OCR engine
+
+# PDF Processing
+PyMuPDF>=1.23.0               # Fast PDF to image conversion (recommended)
+pdf2image>=1.16.3             # Alternative PDF processing (requires Poppler)
+
+# Image Processing
+opencv-python>=4.8.0          # Image preprocessing (CLAHE, denoising, etc.)
+opencv-contrib-python>=4.8.0  # Additional OpenCV modules
+Pillow>=10.0.0                # Image manipulation
+
+# Scientific Computing
+numpy>=1.24.0                 # Array operations
+scipy>=1.12.0                 # Scientific algorithms
+
+# Deep Learning (for GPU acceleration)
+torch>=2.0.0                  # PyTorch (CPU or CUDA)
+torchvision>=0.15.0           # Computer vision utilities
+
+# Optional: Install CUDA-enabled torch for GPU
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+# Machine Learning
+scikit-learn>=1.3.0           # ML utilities (clustering, similarity)
+
+# NLP & Language Models (optional for advanced post-processing)
+transformers>=4.30.0          # Hugging Face transformers
+# sentencepiece>=0.1.99       # Tokenization (if using specific models)
+
+# Utilities
+python-dotenv>=1.0.0          # Environment variable management
+tqdm>=4.65.0                  # Progress bars
+
+# Database (for integration with SIGEDEC)
+psycopg2-binary>=2.9.0        # PostgreSQL client
+redis>=5.0.0                  # Redis client
+# qdrant-client>=1.7.0        # Qdrant vector database (optional)
+
+# Data Structures
+pandas>=2.0.0                 # Data manipulation
+
+# Logging & Monitoring
+colorlog>=6.7.0               # Colored logging output
+
+# Testing (dev dependencies)
+pytest>=7.4.0
+pytest-cov>=4.1.0
